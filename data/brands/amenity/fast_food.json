@@ -13611,16 +13611,16 @@
       "displayName": "华莱士",
       "id": "cnhls-65b4e8",
       "locationSet": {"include": ["cn"]},
-      "matchNames": ["华莱士快餐", "华莱士炸鸡汉堡"],
+      "matchNames": ["华莱士快餐", "华莱士炸鸡汉堡","CNHLS","Wallace Burger & Chicken","wallace | Burger & Chicken"],
       "tags": {
         "amenity": "fast_food",
         "brand": "华莱士",
-        "brand:en": "CNHLS",
+        "brand:en": "Wallace",
         "brand:wikidata": "Q15939607",
         "brand:zh": "华莱士",
         "cuisine": "burger;chicken",
         "name": "华莱士",
-        "name:en": "CNHLS",
+        "name:en": "Wallace",
         "name:zh": "华莱士",
         "takeaway": "yes"
       }
@@ -13739,16 +13739,17 @@
         "include": ["cn"],
         "exclude": ["hk", "mo"]
       },
+      "matchNames": ["塔斯汀中国汉堡","Tastien","Tastien Burger","Tastien Chinese Burger"],
       "tags": {
         "amenity": "fast_food",
         "brand": "塔斯汀",
-        "brand:en": "Tastien",
+        "brand:en": "Tasiting",
         "brand:wikidata": "Q117191831",
         "brand:zh": "塔斯汀",
         "cuisine": "burger",
         "delivery": "yes",
         "name": "塔斯汀",
-        "name:en": "Tastien",
+        "name:en": "Tasiting",
         "name:zh": "塔斯汀",
         "takeaway": "yes"
       }
